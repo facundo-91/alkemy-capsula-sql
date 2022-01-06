@@ -1,9 +1,9 @@
-CREATE TABLE curso (
+CREATE TABLE test (
 	codigo_de_curso	INT     NOT NULL,
 	nombre          VARCHAR NOT NULL,
 	descripcion     VARCHAR,
-	turno           VARCHAR NOT NULL
-	PRIMARY KEY	(codigo_de_curso),
+	turno           VARCHAR NOT NULL,
+	PRIMARY KEY	(codigo_de_curso)
 );
 
 ALTER TABLE curso
