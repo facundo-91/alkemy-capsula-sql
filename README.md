@@ -18,7 +18,7 @@
 
 ### Tema 3
 
-![](https://github.com/facundo-91/alkemy-capsula-sql/blob/master/tema3-tablaProfesor.png)
+![](https://github.com/facundo-91/alkemy-capsula-sql/blob/main/tema3-tablaProfesor.png)
 
 1. Nombre, apellido y fecha de nacimiento de todos los empleados, ordenado por fecha de nacimiento ascendente.
 2. Todos los profesores cuyo salario sea mayor o igual a 65000.
